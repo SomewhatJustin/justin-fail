@@ -1,1 +1,0 @@
-Hi there. This is my simple Glitch website built on HTML and Tailwind CSS.
